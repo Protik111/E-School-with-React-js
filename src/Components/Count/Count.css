@@ -1,0 +1,23 @@
+.course-count{
+    width: 350px;
+    height: 370px;
+    background-color:aliceblue;
+    position: absolute;
+    top: 95px;
+    right: 20px;
+    border-radius: 5px;
+    box-shadow: 5px 5px 10px gray;
+}
+h3{
+    text-align: center;
+    margin-top: 13px;
+
+}
+.total-course{
+    color: brown;
+    text-align: center;
+}
+.total-price{
+    text-align: center;
+    color: brown;
+}

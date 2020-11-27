@@ -1,0 +1,50 @@
+.course-container{
+    display: flex;
+    width: 70%;
+    /* height: 250px; */
+    border: 1px solid gray;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    box-shadow: 0 2px 4px 0 rgba(0,0,0,.3);
+    border-color: #bfcaca;
+    border-width: 1px;
+    border-radius: 7px;
+    background-color: aliceblue;
+}
+.course-image img{
+    width: 233px;
+    height: 215px;
+    padding: 20px;
+    border-radius: 13%;
+}
+.course-info{
+    padding: 20px;
+}
+.course-info h2{
+    color: darkslategray;
+}
+.price{
+    font-weight: 700;
+    color: chocolate;
+}
+.ratings{
+    font-size: 700;
+    color: goldenrod;
+}
+.course-info button{
+    background-color: chocolate;
+    width: 140px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    color: white;
+    cursor: pointer;
+}
+.course-info button:hover{
+    background-color: chocolate;
+    transition: 1s;
+}
+.instructor{
+    color: orangered;
+}
